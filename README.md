@@ -1,7 +1,7 @@
 # mojianbiao.github.io
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mojianbiao" alt="my github stats" height="195"  />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoungboy" alt="languages"  height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojianbiao" alt="languages"  height="195" />
 </p>
 
 - 🔭 I’m currently working on China.
