@@ -1,4 +1,3 @@
-# mojianbiao.github.io
 ## 我是莫建标 😁
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mojianbiao" alt="my github stats" height="195"  />&nbsp;
